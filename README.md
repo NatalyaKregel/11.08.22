@@ -1,1 +1,1 @@
-# 11.08.22
+# Работа с pandas в GoogleColab
